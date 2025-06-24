@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768221769660",
+    "project_id": "sell-n-buy-rent-7ca04",
+    "storage_bucket": "sell-n-buy-rent-7ca04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768221769660:android:99e10b390b2160e9e745b9",
+        "android_client_info": {
+          "package_name": "com.example.sell_n_buy_updated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgVfmsqIwYGvosCKWeCnf6HpL_cR0aW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
